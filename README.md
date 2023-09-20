@@ -1,2 +1,2 @@
 # HW2_Software-Engineering-Project
-This projects includes the very first homework assignment for my software engineering class
+This project includes the second homework assignment for my software engineering class
